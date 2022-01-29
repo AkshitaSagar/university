@@ -1,0 +1,15 @@
+table{
+    border: 1px solid black;
+}
+
+tr{
+    background-color: lightpink;
+}
+
+td {
+    /* border: 2px solid black; */
+    padding: 10px;
+    font-size: 15px;
+  }
+
+  
